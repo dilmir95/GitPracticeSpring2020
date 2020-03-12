@@ -7,6 +7,7 @@ public class Practice {
 
         int x =0;
         System.out.println(x);
+        System.out.println("my name is Dilmurod");
 
     }
 }
