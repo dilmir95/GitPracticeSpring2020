@@ -11,5 +11,7 @@ public class Hello {
 
         );
     }
+        int x = 100;
+        int y = 200;
 
 }
