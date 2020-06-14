@@ -11,8 +11,10 @@ public class Hello {
 
         );
     }
-    long t = 50l;
-    long f = 12l;
 
+        int x = 100;
+        int y = 200;
+        long t = 50l;
+        long f = 12l;
 
 }
