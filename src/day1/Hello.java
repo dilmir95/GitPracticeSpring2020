@@ -11,5 +11,8 @@ public class Hello {
 
         );
     }
+    long t = 50l;
+    long f = 12l;
+
 
 }
