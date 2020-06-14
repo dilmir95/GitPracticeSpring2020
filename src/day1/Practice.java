@@ -9,5 +9,7 @@ public class Practice {
         System.out.println(x);
         System.out.println("my name is Dilmurod");
 
+        System.out.println("Some new code Github");
+        
     }
 }
