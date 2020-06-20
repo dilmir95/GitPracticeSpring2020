@@ -10,6 +10,8 @@ public class Hello {
                 "hello world"+ "10+10"
 
         );
+
+        System.out.println(" hello world by dimka sending to teamlead");
     }
 
         int x = 100;
